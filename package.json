@@ -23,7 +23,7 @@
     "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^4.39.0",
+    "@netlify/plugin-nextjs": "^5.14.7",
     "@tailwindcss/postcss": "^4",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20",
